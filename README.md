@@ -92,16 +92,16 @@ Now, lets dive into the app folder which has the main code for the application.
 The Flutter plugins for IntelliJ and VSCode support running tests. This is often the best option while writing tests because it provides the fastest feedback loop as well as the ability to set breakpoints.
 
 # IntelliJ
-Open the counter_test.dart file
+Open the home_controller_test.dart file
 
 Select the Run menu
 
-Click the Run 'tests in counter_test.dart' option
+Click the Run 'tests in home_controller_test.dart' option
 
 Alternatively, use the appropriate keyboard shortcut for your platform.
 
 # VSCode
-Open the counter_test.dart file
+Open the home_controller_test.dart file
 
 Select the Run menu
 
